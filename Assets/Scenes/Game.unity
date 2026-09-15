@@ -5832,17 +5832,10 @@ RectTransform:
   - {fileID: 1725956779}
   m_Father: {fileID: 1778235036}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 169.00006, y: -98}
   m_SizeDelta: {x: 338, y: 0}
-=======
-  m_AnchorMin: {x: 0, y: 0.5}
-  m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 169.00006, y: 13.799988}
-  m_SizeDelta: {x: 250, y: 0}
->>>>>>> Tania-Story
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &1483020552
 MonoBehaviour:
@@ -5904,11 +5897,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-<<<<<<< HEAD
   m_Sprite: {fileID: -6874308299371283492, guid: daea24e1573dc884b81c03abfa45999a, type: 3}
-=======
-  m_Sprite: {fileID: -8229598120360318422, guid: 1ca4d586a5f68ee4bbbf8ac6460ad7a9, type: 3}
->>>>>>> Tania-Story
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6321,11 +6310,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-<<<<<<< HEAD
   m_SizeDelta: {x: 1437.1919, y: 0}
-=======
-  m_SizeDelta: {x: 0, y: 0}
->>>>>>> Tania-Story
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1583112078
 MonoBehaviour:
@@ -6413,11 +6398,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-<<<<<<< HEAD
   m_margin: {x: 0, y: 0, z: 3.7748415, w: 128.91312}
-=======
-  m_margin: {x: 0, y: 139.76964, z: 3.7748415, w: 10.646454}
->>>>>>> Tania-Story
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -7214,11 +7195,7 @@ GameObject:
   - component: {fileID: 1778235040}
   - component: {fileID: 1778235037}
   m_Layer: 5
-<<<<<<< HEAD
   m_Name: DialoguePanel
-=======
-  m_Name: DialoguBackground
->>>>>>> Tania-Story
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7240,19 +7217,11 @@ RectTransform:
   - {fileID: 1483020551}
   m_Father: {fileID: 2027656419}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
   m_AnchoredPosition: {x: 0.011489868, y: 186.18973}
   m_SizeDelta: {x: 1707.9, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
-=======
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 34, y: -433}
-  m_SizeDelta: {x: 1855.7916, y: 0}
-  m_Pivot: {x: 0.5, y: 0}
->>>>>>> Tania-Story
 --- !u!114 &1778235037
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7287,11 +7256,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-<<<<<<< HEAD
   m_Sprite: {fileID: 1119314099189480496, guid: 7dfc3aae2f03db843ab1c8ab1c33eb36, type: 3}
-=======
-  m_Sprite: {fileID: -2050620457552988028, guid: 32a26dc4d0c65d246acf153ca4844c52, type: 3}
->>>>>>> Tania-Story
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7326,19 +7291,11 @@ MonoBehaviour:
     m_Right: 0
     m_Top: 98
     m_Bottom: 0
-<<<<<<< HEAD
   m_ChildAlignment: 3
   m_Spacing: 0
   m_ChildForceExpandWidth: 1
   m_ChildForceExpandHeight: 1
   m_ChildControlWidth: 0
-=======
-  m_ChildAlignment: 4
-  m_Spacing: 0
-  m_ChildForceExpandWidth: 1
-  m_ChildForceExpandHeight: 0
-  m_ChildControlWidth: 1
->>>>>>> Tania-Story
   m_ChildControlHeight: 1
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
@@ -7499,13 +7456,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-<<<<<<< HEAD
   m_AnchoredPosition: {x: 0, y: 400}
   m_SizeDelta: {x: 1824.8009, y: 859.3806}
-=======
-  m_AnchoredPosition: {x: 0, y: 442.77252}
-  m_SizeDelta: {x: 1824.8009, y: 944.9258}
->>>>>>> Tania-Story
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2027656421
 CanvasRenderer:
@@ -7530,23 +7482,7 @@ MonoBehaviour:
   dialogueText: {fileID: 1583112078}
   speakerNameText: {fileID: 1725956780}
   speakerPanel: {fileID: 1483020550}
-<<<<<<< HEAD
   speakerBackground: {fileID: 0}
-=======
-  speakerBackground: {fileID: 1778235038}
-  dialogue1Center: {fileID: 1335326330924709876, guid: 44445d5a9743fc043a1a0ce9a89bcd70, type: 3}
-  dialogue2Left: {fileID: 5146185493843792842, guid: 485cea3c50a76ed49a7a9a8a1631039b, type: 3}
-  dialogue2Right: {fileID: -1413656796091663246, guid: ffe94ecf3bf77d745a1551822a69d96e, type: 3}
-  dialogue3Left: {fileID: 834325057347147922, guid: 7016994160f732c4b85567e88e8be213, type: 3}
-  dialogue3Center: {fileID: -2773437719352636500, guid: f030f510972290248afffeef52c4ac13, type: 3}
-  dialogue3Right: {fileID: -3017537259252569970, guid: 6d61c43e7e4ffef4da4ba297c2a6f0c8, type: 3}
-  dialogue4Left: {fileID: 2365138390003846244, guid: 20cde4c8ae01d4549acfa623a7bb89fe, type: 3}
-  dialogue4LeftCenter: {fileID: 3824793406878015290, guid: 96a85c51feafc054b9d80c9190cd4eac, type: 3}
-  dialogue4RightCenter: {fileID: -6619373105804165753, guid: 1aedc2a69489429448256e909d6b445f, type: 3}
-  dialogue4Right: {fileID: 2455876045384857588, guid: aff0dc2b9dafb174cb27798dd7324533, type: 3}
-  dialoguePlayer: {fileID: 6224132207503717713, guid: ca1ab8935422e3144811d47e99b30d6f, type: 3}
-  dialogueThought: {fileID: 3904522452198587480, guid: 6706819192d952445a970e22b2dcd522, type: 3}
->>>>>>> Tania-Story
   chapterEndPanel: {fileID: 1501854419}
   chapterTitleText: {fileID: 248950932}
 --- !u!1 &2090331550
