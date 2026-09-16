@@ -1836,7 +1836,7 @@ Parece estar pensando demasiado qué decir.
 
 #speaker:evan
 #evan:casual:thinking
-—No soy muy bueno con estas cosas.
+—No soy muy bueno con estas cosas...
 
 #speaker:hide
 
@@ -2106,8 +2106,6 @@ Te ríes.
 
 Y vuelve a besarte.
 
-Esta vez eres tú quien se acerca primero.
-
 Tus manos se apoyan sobre sus hombros.
 
 Evan te rodea suavemente con los brazos.
@@ -2231,8 +2229,6 @@ Pero rapidamente las vuelve a subir.
 
 Como si se hubiera equivocado.
 
-Que no es el caso.
-
 Te separas, y lo miras.
 
 #speaker:{protagonistName}
@@ -2339,8 +2335,6 @@ Sus manos se apoyan tímidamente donde estaban antes.
 
 Esta vez no las aparta.
 
-#speaker:hide
-
 El beso continúa.
 
 Evan sigue tu ritmo.
@@ -2423,8 +2417,6 @@ Más lento.
 
 Evan sigue tu iniciativa, todavía inseguro, pero cada vez más tranquilo.
 
-Lo guías con suavidad.
-
 Sin prisas.
 
 Sin obligarlo a nada.
@@ -2488,17 +2480,11 @@ Evan sonríe tímidamente.
 
 #speaker:evan
 #evan:casual:happy_shy
-—Eso me gusta.
+—Eso puedo hacerlo.
 
 #speaker:hide
-
-Lo besas.
-
-Evan corresponde.
-
-Poco a poco, las últimas barreras desaparecen.
-
 #evan:shirtless:shy
+Tiras de su pantalón.
 
 Evan aparta la mirada inmediatamente.
 
@@ -2537,7 +2523,7 @@ Apoya la frente contra la tuya.
 
 #speaker:evan
 #evan:shirtless:thinking
-—¿Estás segura?
+—¿Quieres hacerlo?
 
 #speaker:{protagonistName}
 —Sí.
@@ -2559,14 +2545,6 @@ Respira profundamente.
 —Confío en ti.
 
 #speaker:hide
-
-Aquellas palabras te golpean.
-
-Porque sabes exactamente lo que significan.
-
-Y esta vez...
-
-no quieres romper esa confianza.
 
 Lo besas.
 
@@ -2598,7 +2576,7 @@ Evan se deja guiar por ti, todavía nervioso, pero cada vez más tranquilo.
 #evan:shirtless:asking
 —¿Puedo...?
 #speaker:hide
-No sé que iba a pedir, pero la respuesta me sale automatica,
+No sé que iba a pedir, pero la respuesta me sale automatica.
 
 #speaker:{protagonistName}
 —Sí.
@@ -2644,22 +2622,17 @@ Una sonrisa aparece en tu rostro.
 #speaker:{protagonistName}
 —Estoy orgullosa.
 
-Evan pone los ojos en blanco.
+#speaker:hide
 
-Pero no se aparta.
-
-Esta vez es él quien se inclina hacia ti.
+Se inclina hacia ti.
 
 Y cuando te besa...
 
 ya no parece estar pidiendo permiso a cada segundo.
+
 Evan sonríe.
 
 Y por un instante deja de parecer el chico tímido que siempre piensa demasiado.
-
-Simplemente está contigo.
-
-#speaker:hide
 
 No hay prisas.
 
@@ -2669,13 +2642,7 @@ Solo miradas.
 
 Besos.
 
-Caricias.
-
-Y la certeza de que ambos queréis estar allí.
-
-Evan vuelve a besarte.
-
-Esta vez antes de que puedas acercarte tú.
+Caricias...
 
 Te sorprende.
 
@@ -2709,15 +2676,9 @@ Evan permanece cerca de ti.
 
 Todavía nervioso.
 
-Todavía aprendiendo.
-
-Pero completamente confiado en ti.
-
 Tú marcas el ritmo.
 
 Él se deja llevar.
-
-Las palabras se convierten en susurros.
 
 Los besos se vuelven más lentos.
 
@@ -2867,10 +2828,6 @@ Apoya la frente contra la tuya.
 #speaker:hide
 
 Evan tarda unos segundos en responder.
-
-#speaker:evan
-#evan:shirtless:thinking
-—Por estar conmigo.
 
 #speaker:hide
 

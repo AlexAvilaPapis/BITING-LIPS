@@ -22,7 +22,9 @@ Abres los ojos de golpe.
 # bg:class
 # char:profesor:neutral
 
-El profesor de Física y Matemáticas te está mirando con una ceja levantada. Algunos compañeros se ríen por lo bajo.
+El profesor de Física y Matemáticas te está mirando con una ceja levantada.
+
+Algunos compañeros se ríen por lo bajo.
 
 Genial.
 

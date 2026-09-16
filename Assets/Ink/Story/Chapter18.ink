@@ -2,9 +2,6 @@
 #speaker:hide
 #bg:black
 #music:nostalgic
-
-
-
 {
 - route == "dante":
     -> chapter_18_dante

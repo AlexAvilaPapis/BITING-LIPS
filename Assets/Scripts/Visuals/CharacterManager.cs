@@ -281,7 +281,7 @@ public class CharacterManager : MonoBehaviour
         if (evanImage.gameObject.activeSelf)
             count++;
 
-        return count;
+           return count;
     }
 
     public bool GetCharacterVisible()

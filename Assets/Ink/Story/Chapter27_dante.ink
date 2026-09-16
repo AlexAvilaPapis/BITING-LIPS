@@ -534,6 +534,10 @@ Su expresión se vuelve provocadora.
 
 Y tú lo haces.
 
+Aprovechas para oler su piel.
+
+Notar sus pulsaciones.
+
 Dante se deja guiar.
 
 Al principio sigue bromeando.
@@ -621,19 +625,6 @@ Dante se detiene varias veces.
 No porque no quiera.
 
 Sino porque quiere asegurarse.
-
-#speaker:Dante
-#dante:shirtless:soft
-
-—¿Segura?
-
-#speaker:hide
-
-#speaker:{protagonistName}
-
-—Sí.
-
-#speaker:hide
 
 #speaker:Dante
 #dante:shirtless:soft
@@ -887,12 +878,7 @@ cuando continúas...
 
 algo ya no es igual.
 
-#speaker:hide
-
-#speaker:hide
 Te abalanzas sobre él.
-
-#speaker:hide
 
 Dante intenta detenerte.
 
@@ -958,7 +944,7 @@ Su voz se vuelve débil.
 
 #speaker:Dante
 #hide:dante
-—¿Por... qué...?
+—¿...Qué...?
 #speaker:hide
 Lo miras.
 
@@ -1115,17 +1101,17 @@ Hasta que él suspira.
 #speaker:hide
 Te mira.
 
-#speaker:DanteDanteDanteDante
+#speaker:Dante
 —No sé qué pasó ayer.
 #speaker:hide
 Pausa.
 
-#speaker:DanteDanteDante
+#speaker:Dante
 —No sé qué recordó Enzo.
 #speaker:hide
 Otra pausa.
 
-#speaker:DanteDante
+#speaker:Dante
 —Y no sé por qué saliste corriendo.
 #speaker:hide
 Sus ojos se suavizan.
@@ -1185,18 +1171,6 @@ Dante te mira como si la respuesta fuera obvia.
 —Porque si no quieres hablar de ello, no voy a obligarte.
 #speaker:hide
 Y algo dentro de ti se rompe.
-
-Porque es así de simple.
-
-Tan simple que duele.
-
-Sin preguntas.
-
-Sin presión.
-
-Sin exigencias.
-
-Solo respeto.
 
 Tus ojos empiezan a arder.
 
@@ -1312,29 +1286,29 @@ Dante mira la bolsa.
 
 #speaker:Dante
 #dante:jacket:embarrassed
-—Croissants.
+—Unos Yatekomos.
 
 #speaker:{protagonistName}
-—¿Croissants?
+—¿Yatekomos?
 
 #speaker:Dante
-—De diferentes tipos.
+—Traje dos diferentes, para que elijas.
 
 #speaker:{protagonistName}
-—¿Por qué?
+—Quiero el de verduras.
 
 #speaker:Dante
 #dante:jacket:embarrassed
-—No sabía cuál te gustaba.
+—Verduras tendrás.
 #speaker:hide
 Lo miras.
 
 #speaker:{protagonistName}
-—Eso sigue siendo estúpido.
+—Me encanta, es muy gourmet.
 
 #speaker:Dante
 #dante:jacket:smile
-—Sí.
+—Lo mejor para ti.
 #speaker:hide
 Te ríes.
 
@@ -1426,13 +1400,12 @@ Sonríe nerviosamente.
 Pausa.
 
 #speaker:Dante
-—Pero lo que siento por ti es real.
+—Pero quiero estar contigo.
 #speaker:hide
-Te mira directamente.
-
+Te mira directamente.   
 #speaker:Dante
 #dante:jacket:shy
-—Y no quiero seguir fingiendo que no lo es.
+—Solo contigo.
 #speaker:hide
 El mundo parece detenerse.
 
@@ -1457,8 +1430,6 @@ Dante hace lo mismo.
 Y finalmente vuestros labios se encuentran.
 
 Suavemente.
-
-Con torpeza.
 
 Con nervios.
 
@@ -1541,14 +1512,14 @@ curioso.
 
 #speaker:{protagonistName}
 
-—¿Y si lo hago?
+—¿No es lo que querias?
 
 Dante sonríe.
 
 #speaker:Dante
 #dante:jacket:smile
 
-—Entonces supongo que tendré que acostumbrarme.
+—Te quiero.
 
 #speaker:hide
 
@@ -1715,6 +1686,8 @@ Tu sonrisa se hace todavía más grande.
 
 —Entonces sí está funcionando.
 
+#speaker:hide
+
 Dante niega con la cabeza.
 
 Pero está sonriendo.
@@ -1737,7 +1710,7 @@ Pero está sonriendo.
 
 Te acercas de nuevo.
 
-Esta vez sus labios encuentran los tuyos antes que los tuyos a los suyos.
+Esta vez sus labios encuentran los tuyos antes de que puedas seguir tu juego.
 
 El beso dura más.
 
@@ -1759,6 +1732,7 @@ Después mira hacia la habitación.
 #speaker:{protagonistName}
 
 —¿A dónde?
+#speaker:hide
 
 Dante empieza a caminar.
 
@@ -1787,11 +1761,11 @@ Entonces Dante camina hasta la cama.
 
 Se sienta.
 
-Y finalmente se tumba.
+Y finalmente se acomoda.
 
 Completamente tranquilo.
 
-Apoya la cabeza sobre la almohada.
+Apoya su espalda en el cabezal de la cama.
 
 Te mira.
 
@@ -1815,7 +1789,7 @@ Dante cruza las manos detrás de la cabeza.
 #speaker:Dante
 #dante:jacket:staring
 
-—A ver cuánto tardas.
+—A ver que haces.
 
 #speaker:hide
 
@@ -1841,10 +1815,25 @@ Te quedas de pie frente a la cama.
 Dante se encoge de hombros.
 
 #speaker:Dante
-#dante:jacket:neutral
+#dante:green_shirt:neutral
 
-—Entonces no haces nada.
+—Entonces me quedaré aquí mirándote.
 
+#speaker
+
+Sonríe.
+
+#speaker
+#dante:jacket
+
+—Créeme.
+
+Pausa.
+
+#speaker
+#dante:jacket
+
+—Tampoco me parece un mal plan.
 #speaker:hide
 
 Silencio.
@@ -1861,7 +1850,7 @@ Y eso...
 
 es mucho más provocador de lo que debería.
 
-Te acercas.
+Te acercas poco a poco.
 
 Dante sigue mirándote.
 
@@ -1873,7 +1862,7 @@ Pero no dice nada.
 
 #speaker:{protagonistName}
 
-—¿Eso es todo?
+—¿No dices nada?
 
 Dante sonríe.
 
@@ -1897,10 +1886,9 @@ Lo miras con incredulidad.
 
 #speaker:{protagonistName}
 
-—Eres un idiota.
-
+—Qué descarado.
 #speaker:Dante
-#dante:jacket:smile
+#dante:green_shirt
 
 —Ya me lo habías dicho.
 
@@ -1911,6 +1899,23 @@ Te acercas un poco más.
 Dante no aparta la mirada.
 
 Te quitas otra prenda.
+#dante:green_shirt
+
+—Más despacio.
+
+#speaker:{protagonistName}
+
+—¿Por qué?
+#speaker:hide
+
+Dante sonríe.
+
+#speaker
+#dante:jacket
+
+—Porque quiero verlo.
+
+#speaker:hide
 
 Esta vez notas cómo traga saliva.
 
@@ -1932,13 +1937,14 @@ Dante arquea una ceja.
 #speaker:{protagonistName}
 
 —Pensaba que estabas muy tranquilo.
+#speaker:hide
 
 Dante mantiene la mirada.
 
 #speaker:Dante
 #dante:jacket:neutral
 
-—Lo estoy.
+—Lo estaba.
 
 #speaker:{protagonistName}
 
@@ -1952,31 +1958,40 @@ Lo suficiente para que vuestros rostros queden muy cerca.
 
 #speaker:{protagonistName}
 
-—Entonces ¿por qué estás conteniendo la respiración?
+—Entonces quizá debería parar.
 
 Dante se ríe por lo bajo.
 
 #speaker:Dante
 #dante:jacket:smile
 
-—Porque eres insoportable.
+—Ni se te ocurra.
+#speake:hide
 
-#speaker:{protagonistName}
-
-—Y aun así no me apartas.
 
 Dante te mira durante unos segundos.
 
 #speaker:Dante
 #dante:jacket:staring
 
-—No quiero apartarte.
+—Ahora ven aquí.
+#speaker:{protagonistName}
 
-#speaker:hide
-
-Esa respuesta consigue que seas tú quien se quede sin palabras durante un instante.
+—¿No te gustaba mirar?
 
 Dante sonríe.
+
+#speaker
+#dante:jacket
+
+—Me gusta.
+
+Pausa.
+
+#speaker
+#dante:jacket
+
+—Pero también me gusta participar.
 
 #speaker:Dante
 #dante:jacket:smile
@@ -2087,8 +2102,6 @@ Dante asiente.
 
 #speaker:hide
 
-Esta vez te acercas tú.
-
 Lo besas.
 
 Y Dante corresponde.
@@ -2183,7 +2196,7 @@ Dante sonríe.
 
 Se acerca.
 
-Te toma suavemente de la cintura.
+Te toma suavemente de la cintura acercandote a él.
 
 Y esta vez ya no espera a que seas tú quien dé el siguiente paso.
 
@@ -2193,7 +2206,7 @@ Más decidido.
 
 Más profundo.
 
-Sus manos recorren lentamente tu espalda mientras tú te aferras a sus hombros.
+Sus brazos atraviesan el rabillo de tus ojos.
 
 Cuando se separa, su frente queda apoyada contra la tuya.
 
@@ -2228,10 +2241,6 @@ Lo besas.
 
 Y esta vez no hay necesidad de decir nada más.
 
-Dante te lleva lentamente hacia la cama.
-
-Te deja sobre ella.
-
 Se queda frente a ti durante unos segundos.
 
 Mirándote.
@@ -2244,7 +2253,7 @@ Te besa.
 
 Y la habitación vuelve a quedarse en silencio.
 
-Las prendas terminan olvidadas.
+Las prendas terminan en el suelo.
 
 Los besos se vuelven más intensos.
 
@@ -2252,7 +2261,7 @@ Las risas nerviosas desaparecen poco a poco.
 
 Y aquella tensión que empezó como un juego...
 
-termina convirtiéndose en algo mucho más íntimo.
+termina haciendose realidad.
 
 
 #bg:black
@@ -2337,7 +2346,7 @@ Te ríes.
 
 #speaker:Dante
 #dante:shirtless:neutral
-—Y aun así te has quedado.
+—No te oigo estoy durmiendo.
 #speaker:hide
 Lo miras.
 
@@ -2350,7 +2359,6 @@ La misma que siempre conseguía hacerte bajar la guardia.
 Y por primera vez...
 no te molesta.
 Porque por primera vez no quieres esconderte.
-No quieres huir.
 No quieres escuchar aquella voz que durante años te había acompañado.
 Aquella hambre.
 Aquella oscuridad.
@@ -2368,15 +2376,6 @@ Y quizá...
 solo quizá...
 tú también.
 Cierras los ojos.
-Y por primera vez en mucho tiempo...
-te permites imaginar un futuro.
-Uno donde no estás sola.
-Uno donde el pasado ya no decide quién eres.
-Uno donde puedes ser algo más que tus impulsos.
-Algo más que tu hambre.
-Porque por una vez...
-has elegido a una persona.
-Y no a tus monstruos.
 
 #speaker:hide
 
