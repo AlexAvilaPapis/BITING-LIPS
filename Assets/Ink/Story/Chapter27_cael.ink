@@ -1550,77 +1550,57 @@ Su expresión se suaviza.
 #speaker:Cael
 #cael:black:shy
 
+#speaker:{protagonistName}
+
+—¿Por qué te importa tanto?
+
+#speaker:hide
+
+Cael te mira.
+
+#speaker:Cael
+#cael:black:neutral
+
 —Porque me importas.
 
 #speaker:hide
 
-Silencio.
+Lo dice tan rápido que casi parece que se arrepiente después.
 
-Cael aparta la mirada.
+Aparta la mirada.
 
 #speaker:Cael
 #cael:black:super_shy
 
-—Más de lo que debería, probablemente.
+—Ya está.
 
 #speaker:hide
 
-Tu corazón se acelera.
+Sonríes.
 
-Cael mira hacia otro lado.
+#speaker:{protagonistName}
 
-Parece incómodo.
-
-Te acercas, apoyando una mano en el sofá, muy cerca de donde está sentado.
-
-La otra mano sujeta su mejilla y le obliga suavemente a girar la cabeza para mirarte.
-
-#speaker:Cael
-#cael:black:thinking
-
-—No sé cuándo ocurrió.
+—¿Ya está?
 
 #speaker:hide
-
-Continúa.
-
-#speaker:Cael
-#cael:black:thinking
-
-—Al principio solo quería entenderte.
-
-#speaker:hide
-
-Pausa.
-
-#speaker:Cael
-#cael:black:thinking
-
-—Luego quería ayudarte.
-
-#speaker:hide
-
-Otra pausa.
-
-Cael baja ligeramente la mirada.
 
 #speaker:Cael
 #cael:black:shy
 
-—Y después...
+—Sí.
+
+#speaker:{protagonistName}
+
+—Eso ha sido bastante fácil.
 
 #speaker:hide
 
-Respira lentamente.
+Cael vuelve a mirarte.
 
 #speaker:Cael
-#cael:black:shy
+#cael:black:neutral
 
-—Supongo que dejé de poder imaginar mis días sin ti.
-
-#speaker:hide
-
-Lo miras fijamente.
+—No para mí, me estoy que me estoy declarando.
 
 #speaker:{protagonistName}
 
@@ -1890,7 +1870,7 @@ Cael te observa.
 
 #speaker:{protagonistName}
 
-—Estoy intentando memorizar este momento.
+—Nunca te había visto sonreir así.
 
 #speaker:hide
 
@@ -2078,52 +2058,138 @@ Pero sus ojos no se apartan de ti.
 
 #speaker:{protagonistName}
 
-—Pensaba que ibas a quedarte.
+—¿Qué pasa?
 
-#speaker
+#speaker:hide
 
-#speaker
+Cael arquea ligeramente una ceja.
+
+#speaker:Cael
 #cael:black
 
-—Me estoy quedando.
+—Nada.
 
-#speaker
+#speaker:hide
 
 #speaker:{protagonistName}
 
-—No pareces muy cómodo.
+—Estás muy callado.
 
-#speaker
+#speaker:hide
 
-Cael arquea una ceja.
-
-#speaker
+#speaker:Cael
 #cael:black
 
-—Estoy perfectamente cómodo.
+—Estoy intentando averiguar qué estás haciendo.
 
-#speaker
+#speaker:hide
 
 Sonríes.
 
-Como si acabaras de encontrar exactamente la respuesta que buscabas.
-
-Tus manos bajan lentamente por su pecho.
-
-Notas cómo sus músculos se tensan bajo tus dedos.
-
 #speaker:{protagonistName}
 
-—¿Sí?
+—¿No lo sabes?
 
-#speaker
+#speaker:hide
 
-#speaker
-#cael:black
+Cael te observa durante unos segundos.
+
+#speaker:Cael
+#cael:black:staring
 
 —Sí.
 
-#speaker
+Pausa.
+
+—Precisamente por eso estoy callado.
+
+#speaker:hide
+
+Tus dedos bajan lentamente por su pecho.
+
+Notas cómo se tensan ligeramente sus músculos bajo tu mano.
+
+#speaker:{protagonistName}
+
+—Pensaba que no te ponía nervioso.
+
+#speaker:hide
+
+Una pequeña sonrisa aparece en su rostro.
+
+#speaker:Cael
+#cael:black:smile
+
+—No estoy nervioso.
+
+#speaker:hide
+
+#speaker:{protagonistName}
+
+—¿Seguro?
+
+#speaker:hide
+
+Cael sostiene tu mirada.
+
+#speaker:Cael
+#cael:black:staring
+
+—Completamente.
+
+#speaker:hide
+
+Te acercas un poco más.
+
+#speaker:{protagonistName}
+
+—Entonces puedo seguir.
+
+#speaker:hide
+
+Cael guarda silencio.
+
+Y esa vez...
+
+tarda demasiado en responder.
+
+#speaker:{protagonistName}
+
+—Eso pensaba.
+
+#speaker:hide
+
+Su mirada cambia.
+
+Apenas.
+
+Pero lo notas.
+
+Cael te agarra suavemente de la cintura.
+
+#speaker:Cael
+#cael:black:smile
+
+—No tientes demasiado a tu suerte.
+
+#speaker:hide
+
+Sonríes.
+
+#speaker:{protagonistName}
+
+—¿Y si quiero?
+
+#speaker:hide
+
+Cael te mira durante unos segundos.
+
+#speaker:Cael
+#cael:black:staring
+
+—Entonces no digas que no te avisé.
+
+#speaker:hide
 
 Lo vuelves a besar.
 
@@ -2170,11 +2236,11 @@ Te ríes.
 
 —No estoy molesto.
 
-#speaker
+#speaker:{protagonistName}
 
 —Entonces bésame.
 
-#speaker
+#speaker:hide
 
 Cael te mira.
 
@@ -2198,7 +2264,7 @@ Y sonríes contra su piel.
 
 #speaker:{protagonistName}
 
-—¿Sigues perfectamente cómodo?
+—¿Sigues completamente tranquilo?
 
 #speaker
 
@@ -2302,9 +2368,11 @@ Lo miras sorprendida.
 #speaker
 #cael:black:smile
 
-—¿Quién coño te crees que eres?
+—¿Quién te crees que eres?
 
 #speaker
+
+Dice con un tono jugetón, esbozando media sonrisa.
 
 Tu sonrisa desaparece.
 
@@ -2362,8 +2430,7 @@ Pero no te besa.
 #speaker
 #cael:black
 
-—Entonces no te quejes después.
-
+—Te estás metiendo en un buen lío.
 #speaker
 
 Y te besa.
@@ -2382,36 +2449,12 @@ Y durante unos segundos vuelves a tener la sensación de que todo desaparece.
 
 Hasta que Cael se separa.
 
-Respira.
-
-Te mira.
-#speaker:{protagonistName}
-
-—¿Qué?
-
-#speaker
-
-Cael mantiene la mirada.
+Cuando intentas incorporarte, Cael te detiene suavemente.
 
 #speaker
 #cael:black
 
-—Si me dices que pare, paro.
-
-#speaker
-
-Su expresión no cambia.
-
-No hay duda.
-
-No hay juego en sus ojos esta vez.
-
-Solo está asegurándose.
-
-#speaker
-#cael:black
-
-—En serio.
+—Quietecita.
 
 #speaker
 
@@ -2419,15 +2462,346 @@ Lo miras.
 
 #speaker:{protagonistName}
 
-—No quiero que pares.
+—¿Perdona?
 
 #speaker
 
-Cael sostiene tu mirada unos segundos más.
+Una sonrisa aparece en su rostro.
 
-Como si quisiera asegurarse de que no estás diciendo aquello solo porque esperas que continúe.
+#speaker
+#cael:black
 
-Finalmente asiente.
+—Me has oído.
+
+#speaker
+
+Te ríes.
+
+#speaker:{protagonistName}
+
+—¿Y si no quiero hacerte caso?
+
+#speaker
+
+Cael se acerca a tu oído.
+
+#speaker
+#cael:black
+
+—Entonces tendrás que averiguar qué pasa.
+
+#speaker
+
+Un escalofrío recorre tu espalda.
+
+Lo miras.
+
+Y, en lugar de apartarte...
+
+sonríes.
+
+#speaker:{protagonistName}
+
+—Quiero averiguarlo.
+
+#speaker
+
+Cael te observa durante unos segundos.
+
+Después te besa otra vez.
+
+Su mano baja hasta tu cintura.
+
+Y, de repente, te levanta del sofá.
+
+#speaker:{protagonistName}
+
+—¡Cael!
+
+#speaker
+
+Te ríes por la sorpresa.
+
+#speaker
+#cael:black
+
+—¿Qué?
+
+#speaker
+
+—¡Estás loco!
+
+#speaker
+#cael:black
+
+—Puede.
+
+#speaker
+
+Te lleva unos pasos más allá y te sienta sobre el borde de la mesa.
+
+Cael queda frente a ti.
+
+Una mano permanece en tu cintura.
+
+La otra se apoya junto a ti.
+
+Te mira desde abajo durante unos segundos.
+
+#speaker
+#cael:black
+
+—¿Sigues pensando que estoy nervioso?
+
+#speaker
+
+Lo miras.
+
+#speaker:{protagonistName}
+
+—No.
+
+#speaker
+
+Cael sonríe.
+
+#speaker
+#cael:black
+
+—Bien.
+
+Se acerca.
+
+Tus manos encuentran su cuello y lo atraen hacia ti.
+
+El beso vuelve a empezar.
+
+Esta vez más desordenado.
+
+Más urgente.
+
+Cael te sostiene con firmeza mientras tú juegas con el borde de su camiseta.
+
+#speaker:{protagonistName}
+
+—Así que esto era lo que estabas escondiendo.
+
+#speaker
+
+Cael se separa apenas.
+
+#speaker
+#cael:black
+
+—No estaba escondiendo nada.
+
+#speaker
+
+#speaker:{protagonistName}
+
+—Claro.
+
+#speaker
+
+Sonríes.
+
+—Eres bastante más peligroso de lo que pareces.
+
+Cael te mira directamente.
+
+#speaker
+#cael:black
+
+—Y tú eres bastante más provocadora de lo que pensaba.
+
+#speaker
+
+Vuelve a besarte.
+
+Durante un rato, ninguno de los dos parece dispuesto a ceder.
+
+Hasta que eres tú quien lo empuja.
+
+Cael retrocede sorprendido.
+
+Tú bajas de la mesa.
+
+Y antes de que pueda reaccionar, lo empujas de nuevo hasta hacerlo caer sentado en el sofá.
+
+Te quedas frente a él.
+
+Cael levanta la mirada.
+
+Y entonces...
+
+sonríe.
+
+Una sonrisa lenta.
+
+Casi desafiante.
+
+#speaker
+#cael:black
+
+—Ah.
+
+Pausa.
+
+—Así que quieres seguir jugando.
+
+#speaker
+
+Te acercas.
+
+#speaker:{protagonistName}
+
+—Pensaba que te gustaba que mandara yo.
+
+#speaker:hide
+
+Cael te mira.
+
+Te agarra suavemente de la muñeca y tira de ti hacia él.
+
+#speaker:Cael
+#cael:black:staring
+
+—Me gusta.
+
+#speaker:hide
+
+Pausa.
+
+#speaker:Cael
+#cael:black:smile
+
+—Por ahora.
+
+#speaker:hide
+
+Lo miras.
+
+#speaker:{protagonistName}
+
+—¿Por ahora?
+
+#speaker:hide
+
+Cael sonríe.
+
+#speaker:Cael
+#cael:black
+
+—No te emociones.
+
+
+#speaker:hide
+
+Tu respiración se detiene durante un segundo.
+
+Cael entrelaza tus dedos con los suyos.
+
+No te fuerza.
+
+Solo espera.
+
+#speaker
+#cael:black
+
+—¿Seguimos?
+
+#speaker
+
+Lo miras.
+
+#speaker:{protagonistName}
+
+—Sí.
+
+#speaker
+
+Cael asiente.
+
+Y esta vez eres tú quien se queda sin palabras.
+
+El juego continúa entre provocaciones, besos y pequeños desafíos.
+
+Cada vez que intentas recuperar el control, Cael encuentra una manera de devolverte la jugada.
+
+Una mano en tu cintura.
+
+Una mirada.
+
+Una orden dicha en voz baja.
+
+Una sonrisa cuando sabe que ha conseguido ponerte nerviosa.
+
+#speaker
+#cael:black
+
+—Mírame.
+
+#speaker
+
+Lo haces.
+
+#speaker
+#cael:black
+
+—Así.
+
+Pausa.
+
+—No apartes la mirada.
+
+#speaker
+
+Obedeces.
+
+Y esa pequeña victoria parece gustarle demasiado.
+
+Te acerca a él.
+
+#speaker
+#cael:black
+
+—¿Sigues queriendo jugar?
+
+#speaker:{protagonistName}
+
+—Sí.
+
+#speaker
+#cael:black
+
+—Entonces ven aquí.
+
+#speaker
+
+Te inclinas hacia él.
+
+Y la sonrisa de Cael desaparece durante un instante.
+
+Como si acabara de recordar algo.
+
+#speaker
+#cael:black
+
+—Si en algún momento quieres que pare...
+
+Pausa.
+
+—Me lo dices.
+
+#speaker
+
+Lo miras fijamente.
+
+#speaker:{protagonistName}
+
+—Lo haré.
+
+Cael asiente.
 
 #speaker
 #cael:black
@@ -2436,561 +2810,47 @@ Finalmente asiente.
 
 #speaker
 
-Y entonces vuelve a besarte.
+Y vuelve a besarte.
 
-Esta vez no te da tiempo a provocarlo.
+La tarde se convierte poco a poco en una sucesión de besos, provocaciones y pequeñas batallas por el control.
 
-Sus manos encuentran las tuyas.
+Y así seguís.
 
-Antes de que puedas reaccionar, te lleva ambas muñecas por encima de tu cabeza.
+Una provocación detrás de otra.
 
-Con una sola mano sujeta tu muñeca con fuerza suficiente para hacerte daño...
+Sin que ninguno quiera ser el primero en rendirse.
 
-Pero sí lo bastante para dejar claro que no vas a recuperar el control.
-
-Te besa el cuello.
-
-La clavícula.
-
-El escote.
-
-Tu respiración se acelera.
-
-Cael te observa.
+Hasta que Cael te mira y sonríe.
 
 #speaker
 #cael:black
 
-—Ahora no pareces tan listilla.
-
-#speaker
+—Te estás divirtiendo demasiado.
 
 #speaker:{protagonistName}
 
-—Suéltame.
-
-#speaker
-
-Cael sonríe ligeramente.
+—Tú también.
 
 #speaker
 #cael:black
 
-—No.
+—Muchísimo.
 
-#speaker
-
-Te quedas mirándolo.
-
-#speaker:{protagonistName}
-
-—¿No?
-
-#speaker
-
-#speaker
-#cael:black
-
-—Has tenido tu oportunidad.
-
-#speaker
-
-Su boca vuelve a encontrar la tuya.
-
-Tus manos siguen atrapadas sobre tu cabeza.
-
-Y por primera vez desde que empezó todo...
-
-eres tú quien no puede decidir qué hacer después.
-
-Cael se separa.
-
-Te observa.
-
-#speaker
-#cael:black
-
-—¿Sigues bien?
-
-#speaker
-
-Asientes.
-
-#speaker
-#cael:black
-
-—Dímelo.
-
-#speaker
-
-#speaker:{protagonistName}
-
-—Estoy más que bien.
-
-#speaker
-
-Cael asiente.
-
-Y solo entonces vuelve a besarte.
-
-La intensidad aumenta.
-
-Tu cuerpo lo busca.
-
-Cael deja escapar una respiración baja contra tu boca.
-
-#speaker
-#cael:black
-
-—No sabes lo que has hecho.
-
-#speaker
-
-#speaker:{protagonistName}
-
-—Lo sé perfectamente.
-
-#speaker
-
-Cael se queda quieto.
-
-Te mira.
-
-Después suelta una pequeña risa.
-
-#speaker
-#cael:black
-
-—No sigas hablando.
-
-#speaker
-
-#speaker:{protagonistName}
-
-—¿O si no?
-
-#speaker
-
-Cael se inclina hacia ti.
-
-#speaker
-#cael:black
-
-—No voy a dejarte ganar otra vez.
-
-#speaker
-
-Esta vez es él quien se aparta primero.
-
-Y se incorpora.
-
-Durante un segundo piensas que quizá ha decidido detenerse.
-
-Pero entonces Cael se quita la camisa.
-
-Sin aquella vergüenza que esperabas.
-
-La deja caer al suelo.
-
-#cael:shirtless
-
-Y cuando vuelve a mirarte...
-
-sabes que la situación ha cambiado completamente.
-
-#speaker:{protagonistName}
-
-—Vaya.
-
-#speaker
-
-Cael arquea una ceja.
-
-#speaker
-#cael:shirtless
-
-—No digas nada.
-
-#speaker
-
-Sonríes.
-
-#speaker:{protagonistName}
-
-—No iba a decir nada.
-
-#speaker
-
-#speaker
-#cael:shirtless
-
-—Estás sonriendo.
-
-#speaker
-
-#speaker:{protagonistName}
-
-—No puedo evitarlo.
-
-#speaker
-
-Cael se acerca de nuevo.
-
-#speaker
-#cael:shirtless
-
-—Eso ya lo veremos.
-
-#speaker
-
-Antes de que puedas responder, vuelve a atraparte por la cintura.
-
-Esta vez te levanta.
-
-El movimiento te hace soltar una exclamación sorprendida.
-
-#speaker:{protagonistName}
-
-—¡Cael!
-
-#speaker
-
-#speaker
-#cael:shirtless
-
-—¿Qué?
-
-#speaker
-
-#speaker:{protagonistName}
-
-—¿Qué haces?
-
-#speaker
-
-Cael te mira.
-
-#speaker
-#cael:shirtless
-
-—Llevarte a la cama.
-
-#speaker
-
-#speaker:{protagonistName}
-
-—Podía caminar.
-
-#speaker
-
-#speaker
-#cael:shirtless
-
-—Ya.
-
-#speaker
-
-Hace una pausa.
-
-#speaker
-#cael:shirtless
-
-—Pero no quería darte la oportunidad de escapar.
-
-#speaker
-
-#speaker:{protagonistName}
-
-—No iba a escapar.
-
-#speaker
-
-Cael te observa.
-
-#speaker
-#cael:shirtless
-
-—Lo sé.
-
-#speaker
-
-Y esa respuesta...
-
-es peor.
-
-Porque lo dice completamente seguro.
-
-Cuando llegáis a la cama te deja sobre ella.
-
-Se queda de pie frente a ti durante unos segundos.
+Te acerca a él.
 
-Observándote.
+Y la escena se funde lentamente en negro.
 
-Como si estuviera disfrutando demasiado de tenerte exactamente donde quería.
-
-#speaker:{protagonistName}
-
-—¿Qué?
-
-#speaker
-
-Cael sonríe.
-
-#speaker
-#cael
-
-—Nada.
-
-#speaker
-
-Se inclina sobre ti y apoya una mano junto a tu cabeza.
-
-#speaker
-#cael
-
-—Solo estoy pensando.
-
-#speaker
-
-#speaker:{protagonistName}
-
-—Eso nunca suele ser buena señal.
-
-#speaker
-
-Su sonrisa se ensancha.
-
-#speaker
-#cael
-
-—Estoy pensando en todas las veces que me has provocado antes.
-
-#speaker
-
-Se acerca a tu oído.
-
-#speaker
-#cael
-
-—Y en lo mucho que me apetece devolvértelas.
-
-#speaker
-
-Un escalofrío recorre tu espalda.
-
-Cael se aparta apenas.
-
-Sus ojos recorren tu rostro.
-
-#speaker
-#cael:shirtless
-
-—Última oportunidad.
-
-#speaker
-
-Lo miras.
-
-#speaker:{protagonistName}
-
-—¿Para qué?
-
-#speaker
-
-Cael sonríe apenas.
-
-#speaker
-#cael:shirtless
-
-—Para decirme que pare.
-
-#speaker
-
-Lo observas durante unos segundos.
-
-Después niegas lentamente.
-
-#speaker:{protagonistName}
-
-—Ya te he dicho que no quiero que pares.
-
-#speaker
-
-La mirada de Cael cambia.
-
-Y entonces vuelve a besarte.
-
-Sus labios se separan de los tuyos y descienden lentamente por tu mandíbula.
-
-Después por tu cuello.
-
-Sus manos recorren tu cintura con una calma que contrasta completamente con la forma en que te había provocado minutos antes.
-
-Cierras los ojos.
-
-Sientes otro beso.
-
-Y otro.
-
-Cada vez un poco más abajo.
-
-Abres los ojos.
-
-Cael ya no está mirándote.
-
-Está completamente concentrado en ti.
-
-#speaker:{protagonistName}
-
-—Cael...
-
-#speaker
-
-Él levanta la mirada.
-
-Una sonrisa aparece en su rostro.
-
-#speaker
-#cael
-
-—¿Qué?
-
-#speaker
-
-#speaker:{protagonistName}
-
-—Nada.
-
-#speaker
-
-Cael se ríe suavemente.
-
-#speaker
-#cael
-
-—Eso pensaba.
-
-#speaker
-
-Vuelve a inclinarse.
-
-Sus besos continúan descendiendo.
-
-Lentamente.
-
-Sin prisa.
-
-Como si quisiera hacerte esperar a propósito.
-
-Tus dedos se aferran suavemente a las sábanas.
-
-#speaker
-#cael
-
-—¿Nerviosa?
-
-#speaker
-
-#speaker:{protagonistName}
-
-—No.
-
-#speaker
-
-#speaker
-#cael
-
-—Mentirosa.
-
-#speaker
-
-Su voz apenas es un susurro.
-
-Y antes de que puedas responder...
-
-desaparece de tu campo de visión.
-
-Solo puedes sentir sus manos.
-
-Su cercanía.
-
-Su respiración.
-
-Y la forma deliberadamente lenta en la que continúa.
-
-Tragas saliva.
-
-#speaker:{protagonistName}
-
-—Lo estás haciendo a propósito.
-
-#speaker
-
-Una pequeña risa llega desde abajo.
-
-#speaker
-#cael
-
-—¿El qué?
-
-#speaker
-
-#speaker:{protagonistName}
-
-—Hacerme esperar.
-
-#speaker
-
-Cael vuelve a mirarte.
-
-Su expresión es casi divertida.
-
-#speaker
-#cael
-
-—Quizá.
-
-Pausa.
-
-#speaker
-#cael
-
-—Me gusta verte perder la paciencia.
-
-#speaker
-
-Lo miras fijamente.
-
-#speaker:{protagonistName}
-
-—Insoportable.
-
-#speaker
-
-Cael sonríe.
-
-#speaker
-#cael
-
-—Y todavía no has visto nada.
-
 #speaker
 
-La frase consigue arrancarte una sonrisa.
-
-Después cierras los ojos.
-La escena se funde lentamente en negro.
-
-#bg
-#speaker
+La tarde continúa.
 
-La noche continúa.
+Sin prisas.
 
-Y por primera vez...
+Sin explicaciones.
 
-no tienes miedo de perder el control.
+Solo vosotros dos...
 
-Porque has decidido entregárselo a alguien en quien confías.
+y un juego que ninguno parece querer terminar.
 
 Horas después...
 

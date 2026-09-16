@@ -1890,7 +1890,7 @@ Lo miras con incredulidad.
 #speaker:Dante
 #dante:green_shirt
 
-—Ya me lo habías dicho.
+—Continúa.
 
 #speaker:hide
 
@@ -1993,6 +1993,15 @@ Pausa.
 
 —Pero también me gusta participar.
 
+#speaker:hide
+Te quedas quieta sin saber si obedecer o no.
+
+Si lo haces, dejarías de controlar de situación pero...
+
+tan malo sería?
+
+Tampoco sabes si la habías estado controlando en algún momento.
+
 #speaker:Dante
 #dante:jacket:smile
 
@@ -2058,11 +2067,6 @@ No para detenerte.
 
 Solo para hacerte esperar.
 
-#speaker:Dante
-#dante:jacket:staring
-
-—Una cosa.
-
 #speaker:{protagonistName}
 
 —¿Qué?
@@ -2116,7 +2120,7 @@ Más seguro.
 
 Ya no hay nervios.
 
-Solo esa tensión que lleváis construyendo desde que entrasteis en la habitación.
+Solo esa tensión que lleváis construyendo desde que entró en tú habitación.
 
 Cuando os separáis, Dante te mira.
 
@@ -2146,8 +2150,6 @@ Tu corazón da un vuelco.
 
 Dante sonríe.
 
-Esta vez no hay rastro de vergüenza.
-
 #speaker:Dante
 #dante:jacket:staring
 
@@ -2155,114 +2157,168 @@ Esta vez no hay rastro de vergüenza.
 
 #speaker:hide
 
-Dante se quita la camiseta.
+Tu corazón da un vuelco.
 
-Rápido.
+Se quita la camiseta lentamente.
 
-Sin apartar la mirada de ti.
+Sin dejar de mirarte.
 
 #dante:shirtless:staring
 
-Y por primera vez eres tú quien se queda completamente quieta.
+Seguro de sí mismo.
 
-Dante lo nota.
+Y demasiado consciente del efecto que está teniendo sobre ti.
+
+#speaker:{protagonistName}
+
+—Sigue...
 
 #speaker:Dante
 #dante:shirtless:smile
 
-—¿Qué pasa?
+—Espera.
 
-#speaker:{protagonistName}
-
-—Nada.
+Pausa.
 
 #speaker:Dante
 #dante:shirtless:staring
 
-—Estás mirando.
-
-#speaker:{protagonistName}
-
-—No puedo evitarlo.
-
-Dante sonríe.
-
-#speaker:Dante
-#dante:shirtless:smile
-
-—Entonces no voy a quejarme.
+—Estoy disfrutando de las vistas.
 
 #speaker:hide
 
-Se acerca.
-
-Te toma suavemente de la cintura acercandote a él.
-
-Y esta vez ya no espera a que seas tú quien dé el siguiente paso.
-
-Te besa.
-
-Más decidido.
-
-Más profundo.
-
-Sus brazos atraviesan el rabillo de tus ojos.
-
-Cuando se separa, su frente queda apoyada contra la tuya.
-
-#speaker:Dante
-#dante:shirtless:soft
-
-—¿Sigues bien?
+Sonríes.
 
 #speaker:{protagonistName}
 
-—Sí.
+—Pensaba que el espectáculo era mío.
+
+Dante se acerca.
+
+#speaker:Dante
+#dante:shirtless:smile
+
+—Lo era.
+
+Se inclina sobre ti.
 
 #speaker:Dante
 #dante:shirtless:staring
 
-—¿Segura?
+—Pero se ha terminado.
+
+#speaker:hide
+
+Te besa.
+
+Esta vez no hay provocaciones.
+
+No hay pausas para reír.
+
+Solo un beso seguro.
+
+Decidido.
+
+Cuando se separa, sus ojos siguen clavados en los tuyos.
+
+Sonríe.
+
+Antes de que puedas rechistar, sus manos encuentran tus muslos.
+
+Te acerca lentamente hacia él.
+
+Después vuelve a tirar de ti.
+
+Hasta dejarte cerca del borde de la cama.
+
+Lo miras sorprendida.
+
+Dante se arrodilla frente a ti.
+
+Entre tus piernas.
+
+Y levanta la mirada.
+
+Durante unos segundos...
+
+simplemente te observa.
 
 #speaker:{protagonistName}
 
 —Dante...
 
+#speaker:hide
 Él sonríe.
+
+#speaker:Dante
+#dante:shirtless:staring
+
+—¿Sí, preciosa?
+
+#speaker:hide
+
+La forma en que lo dice consigue que te quedes completamente quieta.
+
+Dante se acerca.
+
+Sus labios dejan un beso lento y deliberado cerca de tu ingle.
+
+Después otro.
+
+Cada vez un poco más cerca.
+
+Hasta detenerse.
+
+Te mira desde abajo.
+
+#speaker:Dante
+#dante:shirtless:soft
+
+—¿Quieres que siga?
+
+#speaker:hide
+
+Tragas saliva.
+
+#speaker:{protagonistName}
+
+—Sí.
+
+#speaker:hide
+
+La sonrisa de Dante aparece lentamente.
 
 #speaker:Dante
 #dante:shirtless:smile
 
-—Solo quería escucharlo.
+—Eso quería oír.
 
 #speaker:hide
 
-Lo besas.
+Sus manos se deslizan suavemente por tus piernas.
 
-Y esta vez no hay necesidad de decir nada más.
+Arrastrando las últimas capas de ropa que te daban ventaja.
 
-Se queda frente a ti durante unos segundos.
+Dante mantiene la mirada en la tuya durante un último instante.
 
-Mirándote.
+Y después...
 
-Como si todavía le costara creer que realmente estás ahí.
+La respiración se te corta.
 
-Después se inclina.
+Tus dedos se aferran a las sábanas.
 
-Te besa.
+Dante sonríe contra tu piel.
 
-Y la habitación vuelve a quedarse en silencio.
+Tensas los aductores. (gracias oleksiy por enseñarme el nombre de ese musuculo en la maquina de culo)
 
-Las prendas terminan en el suelo.
+#speaker:Dante
+#dante:shirtless:soft
 
-Los besos se vuelven más intensos.
+—Así me gusta.
 
-Las risas nerviosas desaparecen poco a poco.
+#speaker:hide
 
-Y aquella tensión que empezó como un juego...
-
-termina haciendose realidad.
-
+Cierras los ojos.
 
 #bg:black
 #speaker:hide
@@ -2308,7 +2364,7 @@ Lo observas.
 
 Y algo extraño sucede.
 
-Esperabas sentir hambre.
+Esperabas sentir un hambre descontrolada.
 
 Pero no la sientes.
 
@@ -2331,7 +2387,7 @@ Abre un ojo.
 Sonríes.
 
 #speaker:{protagonistName}
-—Quizá.
+—Te miro buscando alguien que me prepare el desayuno.
 #speaker:hide
 Dante cierra los ojos otra vez.
 
@@ -2342,7 +2398,7 @@ Dante cierra los ojos otra vez.
 Te ríes.
 
 #speaker:{protagonistName}
-—Eres imposible.
+—Moriré de hambre.
 
 #speaker:Dante
 #dante:shirtless:neutral
@@ -2353,28 +2409,39 @@ Lo miras.
 Y ves como esboza esa sonrisa tan suya.
 
 Esa sonrisa absurda.
+
 Sincera.
+
 Feliz.
-La misma que siempre conseguía hacerte bajar la guardia.
+
 Y por primera vez...
+
 no te molesta.
-Porque por primera vez no quieres esconderte.
+
 No quieres escuchar aquella voz que durante años te había acompañado.
-Aquella hambre.
-Aquella oscuridad.
-Aquella parte de ti que siempre te susurraba que estabas sola.
-Porque ahora ya no lo estás.
+
 Apoyas la cabeza sobre su pecho.
+
 Escuchando los latidos de su corazón.
+
 Tranquilos.
+
 Constantes.
+
 Reales.
+
 Y Dante rodea tu espalda con los brazos.
+
 Como si quisiera protegerte del mundo entero.
+
 Como si quisiera quedarse así para siempre.
+
 Y quizá...
+
 solo quizá...
+
 tú también.
+
 Cierras los ojos.
 
 #speaker:hide
