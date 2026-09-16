@@ -57,7 +57,6 @@ public class DialogueUI : MonoBehaviour
 
                 break;
 
-
             case 2:
 
                 if (position == 0)

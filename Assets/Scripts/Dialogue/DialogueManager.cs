@@ -153,7 +153,7 @@ public class DialogueManager : MonoBehaviour
                 }
                 else
                 {
-                    if (speaker == "{protagonistName}")
+                    if (speaker == "{protagonistName}" || speaker == "Tú")
                     {
                         speaker = story.variablesState["protagonistName"].ToString();
 
