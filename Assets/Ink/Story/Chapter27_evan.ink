@@ -1733,11 +1733,6 @@ La voz.
 
 "Todavía tienes hambre."
 
-La sensación vuelve.
-
-Pero esta vez no quieres escucharla.
-
-
 #speaker:{protagonistName}
 —¿Vamos a quedarnos aquí toda la noche?
 
@@ -1746,7 +1741,7 @@ Pero esta vez no quieres escucharla.
 —No perdona, ya te dejo tranquila.
 
 #speaker:{protagonistName}
-—¿Quieres quedarte un rato?
+—¿No quieres quedarte un rato?
 
 #speaker:hide
 
@@ -1757,7 +1752,7 @@ Evan parece sorprendido.
 —¿Aquí?
 
 #speaker:{protagonistName}
-—Sí.
+—¿Donde sino?
 
 #speaker:hide
 
@@ -1777,7 +1772,7 @@ Deja su mochila en una silla.
 
 Se queda cerca de ti.
 
-#speaker:evan
+#speaker:Evan
 #evan:casual:thinking
 —No tienes que contarme lo de ayer.
 
@@ -1851,8 +1846,7 @@ Evan hace una pequeña pausa.
 
 #speaker:evan
 #evan:casual:shy
-—Con las personas.
-
+—Con decir lo que siento.
 #speaker:hide
 
 Una sonrisa aparece en tu rostro.
@@ -1873,11 +1867,23 @@ Evan deja escapar una pequeña risa.
 Después vuelve a mirarte.
 
 Esta vez está mucho más serio.
+#speaker
+#evan:casual
 
-#speaker:evan
-#evan:casual:thinking
-—Pero contigo es diferente.
+—Pero contigo...
 
+#speaker
+
+Levanta la mirada.
+
+#speaker
+#evan:casual
+
+—Contigo es diferente.
+
+#speaker
+
+Esperas.
 #speaker:hide
 
 No sabes qué responder.
@@ -1885,16 +1891,14 @@ No sabes qué responder.
 Evan baja ligeramente la mirada.
 
 #speaker:evan
-—Al principio pensaba que simplemente eras alguien que había acabado metiéndose demasiado en mi rutina.
-
+—Al principio pensaba que simplemente me caías bien.
 #speaker:hide
 
 Pausa.
 
 #speaker:evan
 #evan:casual:thinking
-—Después me di cuenta de que empezaba a buscarte incluso cuando no tenía ninguna razón para hacerlo.
-
+—Luego empecé a buscar cualquier excusa para verte.
 #speaker:hide
 
 Lo miras fijamente.
@@ -1914,10 +1918,15 @@ Baja la mirada.
 —Los sitios parecían demasiado silenciosos.
 
 #speaker:hide
+Te quedas mirándolo.
 
-Tu corazón da un vuelco.
+Sin darte cuenta, tus ojos bajan hacia su cuello.
 
-Evan respira profundamente.
+Un segundo.
+
+Quizá menos.
+
+Apartas la mirada.
 
 #speaker:evan
 #evan:casual:thinking
@@ -1941,39 +1950,9 @@ Pausa.
 
 #speaker:hide
 
-Esta vez no hay un gran discurso.
+Sonríes.
 
-No hace falta.
-
-Porque en su forma de decirlo hay algo mucho más propio de él.
-
-Sincero.
-
-Torpe.
-
-Y completamente real.
-
-Lo miras.
-
-Y por primera vez...
-
-no tienes miedo de lo que sientes.
-
-Porque sí.
-
-Te has enamorado.
-
-De él.
-
-De sus rarezas.
-
-De sus silencios.
-
-De su forma de preocuparse.
-
-De aquella manera tan suya de estar presente incluso cuando no sabe qué decir.
-
-Tus ojos empiezan a llenarse de lágrimas.
+Hay algo tan sencillo en cómo lo dice que te duele un poco el pecho.
 
 #speaker:{protagonistName}
 —Evan...
@@ -1996,7 +1975,7 @@ Evan se pone nervioso inmediatamente.
 Respiras profundamente.
 
 #speaker:{protagonistName}
-—Yo también.
+—Tu también.
 
 #speaker:hide
 
@@ -2011,7 +1990,7 @@ Evan parpadea.
 Una pequeña sonrisa aparece en tu rostro.
 
 #speaker:{protagonistName}
-—También me he enamorado de ti.
+—También me gustas.
 
 #speaker:hide
 
@@ -2037,8 +2016,7 @@ Evan se pone rojo.
 Te ríes entre lágrimas.
 
 #speaker:{protagonistName}
-—Como que no.
-
+—No tienes que decir nada.
 #speaker:evan
 #evan:casual:thinking
 —Estoy procesando.
@@ -2096,8 +2074,7 @@ Cuando os separáis, Evan permanece cerca.
 Te ríes.
 
 #speaker:{protagonistName}
-—Idiota.
-
+—Sí, Evan. Me he creído que pasabas por aquí de casualidad.
 #speaker:evan
 #evan:casual:smile
 —Probablemente.

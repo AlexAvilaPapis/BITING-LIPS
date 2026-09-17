@@ -120,8 +120,6 @@ Levanta la bolsa.
 
 #speaker:Dante
 —Te he traído cena, te la doy y me voy...
-#speaker:hide
-Sonríes.
 
 #speaker:{protagonistName}
 —Entra.
@@ -140,7 +138,7 @@ Dante deja la bolsa sobre la mesa.
 —No sabía qué comprarte.
 
 #speaker:Dante
-—Así que he cogido varias cosas que sé que te gustan.
+—Así que he cogido varios sabores de Yatekomo, que sé que te gustan.
 #speaker:hide
 Lo observas mientras saca la comida.
 
@@ -191,6 +189,7 @@ Dante se ríe.
 
 #speaker:Dante
 —Sabía que no estabas escuchando.
+#speaker:hide
 Te acercas.
 
 #speaker:{protagonistName}
@@ -311,7 +310,7 @@ No con fuerza suficiente para hacerle daño.
 
 Solo lo suficiente para dejar claro lo que quieres.
 
-Dante choca contra el sofá.
+Dante choca contra la mesa.
 
 Y se ríe.
 
@@ -390,7 +389,7 @@ Se quita la camiseta.
 
 #dante:shirtless:smile
 
-La deja caer al suelo.
+La deja caer en la silla.
 
 Después abre los brazos.
 
@@ -596,7 +595,7 @@ Finalmente parece aceptar la respuesta.
 
 #speaker:hide
 
-Te toma de la mano.
+Te toma de la cintura.
 
 #speaker:Dante
 
@@ -629,7 +628,7 @@ Sino porque quiere asegurarse.
 #speaker:Dante
 #dante:shirtless:soft
 
-—Si quieres parar...
+—Si quieres...
 
 #speaker:{protagonistName}
 
@@ -819,6 +818,15 @@ Te toca la muñeca.
 
 Levantas la mirada.
 
+Pero tus ojos vuelven a bajar.
+
+Hay algo en esa pequeña mancha roja que no consigues ignorar.
+
+No sabes por qué.
+
+Solo quieres acercarte.
+
+Te obligas a mirar a otro lado.
 #speaker:{protagonistName}
 
 —Lo siento.
@@ -830,7 +838,7 @@ Dante sonríe ligeramente.
 #speaker:Dante
 #dante:shirtless:smile
 
-—No pasa nada.
+——He sobrevivido a cosas peores.
 
 #speaker:hide
 
@@ -840,12 +848,6 @@ debería tranquilizarte.
 
 Pero no lo hace.
 
-Porque todavía puedes ver la sangre.
-
-Y ahora...
-
-ya no puedes dejar de mirarla.
-
 Dante vuelve a acercarse.
 
 #speaker:Dante
@@ -853,15 +855,12 @@ Dante vuelve a acercarse.
 
 —¿Quieres que paremos?
 
-#speaker:hide
-
-Tardas demasiado en responder.
-
 #speaker:{protagonistName}
 
 —No.
 
 #speaker:hide
+La respuesta sale demasiado rápido.
 
 Dante te observa.
 
@@ -870,124 +869,379 @@ Dante te observa.
 
 —Vale.
 
-#speaker:hide
+#speaker
 
-Pero esta vez...
+Esta vez es él quien se acerca.
 
-cuando continúas...
-
-algo ya no es igual.
-
-Te abalanzas sobre él.
-
-Dante intenta detenerte.
-
-Pero algo dentro de ti es más fuerte.
-
-Mucho más fuerte.
-
-La habitación se llena de forcejeos.
-
-De respiraciones agitadas.
-
-De golpes contra las sábanas.
-
-Y entonces...
-
-muerdes.
-
-Dante grita.
+Te toma de la cintura y te obliga a levantar la mirada.
 
 #speaker:Dante
-#dante:shirtless:upset
-—¡¿Qué haces?!
-#speaker:hide
-Pero ya no puedes parar.
+#dante:shirtless
 
-Otra mordida.
+—Entonces mírame.
 
-Y otra.
+#speaker
+
+Lo haces.
+
+O al menos lo intentas.
+
+Dante consigue distraerte.
+
+Consigue que vuelvas a reír.
+
+Que vuelvas a besarlo.
+
+Durante un rato...
+
+funciona.
+
+Pero de vez en cuando tus ojos vuelven a bajar.
+
+A su cuello.
+
+A la pequeña herida.
+
+A la sangre que todavía queda sobre su piel.
+
+Y cada vez que lo haces, algo dentro de ti vuelve a pedir lo mismo.
+
+Más.
+
+Mucho más.
+
+Pero Dante no parece darse cuenta.
+
+O quizá simplemente cree que quieres más de él.
+
+#speaker
+
+—¿Qué?
+
+#speaker:{protagonistName}
+
+—Nada.
+
+#speaker
+
+—Mientes fatal.
+
+#speaker
+
+Te besa otra vez.
+
+Y esta vez no piensas.
+
+Solo te dejas llevar.
+
+Más tarde...
+
+Todo vuelve a quedarse en silencio.
+
+Estás tumbada junto a él.
+
+Dante respira profundamente, todavía intentando recuperar el aliento.
+
+#speaker
+#dante:shirtless
+
+—Vale...
+
+—Definitivamente necesitaba eso.
+
+#speaker
+
+Sonríes.
+
+O eso crees.
+
+Porque vuelves a mirarlo.
+
+Su cuello.
+
+La herida.
 
 La sangre.
 
-El sabor.
+Y antes de darte cuenta...
 
-El calor.
+te acercas otra vez.
 
-Todo aquello que durante años habías intentado olvidar...
+Dante levanta una ceja.
 
-regresa de golpe.
+#speaker
 
-Recuerdas.
+—¿Otra vez?
 
-Recuerdas por qué siempre tenías hambre.
+#speaker
 
-Recuerdas por qué la comida nunca parecía suficiente.
+Sonríe.
 
-Recuerdas aquellas imágenes que tu cabeza había enterrado.
+#speaker
+#dante:shirtless
 
-Y finalmente comprendes.
+—Joder.
 
-No estabas enferma.
+—Ni siquiera me has dejado recuperarme.
 
-No estabas rota.
+#speaker
 
-No estabas confundida.
+No respondes.
 
-Simplemente eras esto.
+No respondes.
 
-#speaker:hide
+Sigues acercándote.
 
-Dante deja de luchar.
+Dante sonríe.
 
-Su voz se vuelve débil.
+#speaker
 
-#speaker:Dante
-#hide:dante
-—¿...Qué...?
-#speaker:hide
+—Vale.
+
+—Ven aquí.
+
+#speaker
+
+Te inclinas sobre él.
+
+Durante un segundo...
+
+parece que vas a besarlo.
+
+Pero giras la cabeza.
+
+Y muerdes.
+
+#speaker
+#dante:shirtless
+
+—¡Ah!
+
+#speaker
+
+Dante te aparta de golpe.
+
+Te quedas inmóvil.
+
+Él se lleva una mano al cuello.
+
+Respira rápido.
+
+#speaker
+#dante:shirtless
+
+—¿Qué coño...?
+
+#speaker
+
 Lo miras.
 
-Y por primera vez...
+Después miras tu boca.
 
-no sientes nada.
+No entiendes qué acabas de hacer.
 
-Ni amor.
+#speaker:{protagonistName}
 
-Ni culpa.
+—Yo...
 
-Ni tristeza.
+#speaker
 
-Solo hambre.
+Dante te observa.
 
-#bg:black
+Ya no está sonriendo.
+
+#speaker
+
+—¿Por qué has hecho eso?
+
+#speaker:{protagonistName}
+
+—No lo sé.
+
+#speaker
+
+Pero entonces vuelves a mirar la herida.
+
+La sangre.
+
+Y esa sensación vuelve.
+
+Más fuerte.
+
+#speaker
+
+—No.
+
+#speaker
+
+Te das cuenta de que te estás acercando otra vez.
+
+Dante retrocede.
+
+#speaker
+
+—Espera.
+
+#speaker
+
+Te detienes.
+
+Por un instante.
+
+Solo por un instante.
+
+#speaker:{protagonistName}
+
+—Lo siento.
+
+#speaker
+
+—Vale.
+
+#speaker
+
+Su voz tiembla un poco.
+
+#speaker
+
+—Pero aléjate.
+
+#speaker
+
+Quieres hacerlo.
+
+De verdad.
+
+Pero vuelves a mirar la sangre.
+
+Y ya no puedes pensar en otra cosa.
+
+No quieres hacerle daño.
+
+Eso lo sabes.
+
+Lo sabes mientras vuelves a acercarte.
+
+Lo sabes cuando él intenta apartarte.
+
+Lo sabes cuando escuchas su voz.
+
+#speaker
+#dante:shirtless
+
+—¡Espera!
+
+#speaker
+
+Pero el hambre ya no se parece al hambre.
+
+No ahora.
+
+Ahora se parece a una necesidad.
+
+Y no sabes dónde termina una cosa y empieza la otra.
+
+#speaker
+
+La escena se corta.
+
+#bg
 
 Silencio.
 
 Mucho después...
 
-abres los ojos.
-#hide:all
-#bg:room
+#bg
 
-La habitación está completamente quieta.
+Abres los ojos.
 
-Miras a tu alrededor.
+La habitación está quieta.
 
-Respiras.
+Miras tus manos.
 
-Y sonríes.
+Después miras la cama.
 
-La voz vuelve una última vez.
+No hay ninguna sensación de victoria.
 
-"¿Ya estás satisfecha?"
+Ni alivio.
+
+Solo una certeza que no quieres tener.
+
+#speaker
+
+Recuerdas la sangre.
+
+Su voz.
+
+La primera mordida.
+
+Y después...
+
+nada.
+
+Te llevas una mano a la boca.
+
+#speaker:{protagonistName}
+
+—Dante...
+
+#speaker
+
+No sabes si lo dices como una disculpa.
+
+O porque todavía esperas que te responda.
+
+No lo hace.
 
 Cierras los ojos.
 
-#speaker:{protagonistName}
-—Por ahora.
+Y entonces vuelven los recuerdos.
 
-#speaker:hide
+No como una explicación.
+
+Como imágenes.
+
+Una cocina.
+
+Tus manos.
+
+Sangre.
+
+Enzo.
+
+El hambre.
+
+La misma sensación de siempre.
+
+Solo que esta vez...
+
+ya sabes de dónde viene.
+
+#bg
+
+Silencio.
+
+#speaker
+
+Y por primera vez entiendes algo que habías intentado no mirar.
+
+No era que no quisieras a Dante.
+
+Lo querías.
+
+Ese era el problema.
+
+#speaker:{protagonistName}
+
+—Lo quería...
+
+#speaker
+
+Y aun así...
+
+no había sido suficiente.
+
+#bg
 
 -> END
 
@@ -1155,119 +1409,163 @@ Parpadeas.
 Silencio.
 
 #speaker:{protagonistName}
-—¿No vas a insistir?
-
+—¿No quieres saber?
 #speaker:Dante
-#dante:jacket:soft
-—No.
+#dante:jacket
+
+—Si quieres contármelo, me lo cuentas.
+
+#speaker:hide
+
+Tragas saliva.
 
 #speaker:{protagonistName}
-—¿Por qué?
+
+—No sé cómo.
+
 #speaker:hide
-Dante te mira como si la respuesta fuera obvia.
+
+Dante te mira.
 
 #speaker:Dante
-#dante:jacket:soft
-—Porque si no quieres hablar de ello, no voy a obligarte.
+
+—Pues no me lo cuentes.
+
 #speaker:hide
-Y algo dentro de ti se rompe.
 
-Tus ojos empiezan a arder.
+Te sorprende la respuesta.
 
-Intentas girarte.
+#speaker:{protagonistName}
 
-Intentas ocultarlo.
+—Es que hay algo...
 
-Pero Dante ya lo ha visto.
+#speaker:hide
+
+Te detienes.
+
+No sabes cómo explicarlo.
+
+Ni siquiera sabes exactamente qué quieres explicar.
+
+#speaker:{protagonistName}
+
+—No sé qué me pasa.
+
+#speaker:hide
+
+Dante frunce ligeramente el ceño.
 
 #speaker:Dante
-#dante:jacket:surprised
-—Eh, eh, eh.
+#dante:jacket
+
+—¿Te ha pasado algo?
+
+#speaker:{protagonistName}
+
+—No lo sé.
+
 #speaker:hide
+
+Silencio.
+
+Miras hacia él.
+
+Sus manos.
+
+Su cuello.
+
+Te quedas ahí un segundo de más.
+
+Apartas la mirada.
+
+#speaker:Dante
+
+—¿Qué?
+
+#speaker:{protagonistName}
+
+—Nada.
+
+#speaker:hide
+
+Dante te observa un momento más.
+
+Pero no insiste.
+
+#speaker:{protagonistName}
+
+—Solo...
+
+#speaker:hide
+
+Te cuesta decirlo.
+
+#speaker:{protagonistName}
+
+—No quiero estar sola ahora.
+
+#speaker:hide
+
+Dante cambia la expresión.
+
+#speaker:Dante
+#dante:jacket
+
+—Entonces no lo estarás.
+
+#speaker:hide
+
+Y eso es todo.
+
+No tienes que explicarlo.
+
+No tienes que fingir que sabes qué está pasando.
+
+Las lágrimas empiezan a caer antes de que puedas detenerlas.
+
+Intentas apartarte.
+
+#speaker:Dante
+#dante:jacket
+
+—Eh.
+
+#speaker:hide
+
 Se acerca.
 
 #speaker:Dante
-—No tienes que hacer eso.
 
+—Ven.
+
+#speaker:hide
+
+Te abraza.
+
+Sin preguntas.
+
+Sin intentar arreglar nada.
+
+Te aferras a él.
+
+Durante unos segundos solo existe el calor de su cuerpo y su respiración tranquila.
+
+Poco a poco, consigues calmarte.
+
+Cuando levantas la cabeza, Dante sigue ahí.
+
+#speaker:Dante
+#dante:jacket
+
+—Aunque si querías una excusa para abrazarme, podías haberlo dicho.
 #speaker:{protagonistName}
-—¿Hacer qué?
-
-#speaker:Dante
-#dante:jacket:concerned
-—Fingir que estás bien.
-#speaker:hide
-Pausa.
-
-#speaker:Dante
-—Fingir ser fuerte.
-#speaker:hide
-Otra pausa.
-
-#speaker:Dante
-—No tienes que hacer nada de eso.
-#speaker:hide
-Y eso es suficiente.
-
-Todo lo que llevabas acumulando durante años termina saliendo de golpe.
-
-Las lágrimas.
-
-La rabia.
-
-El miedo.
-
-La vergüenza.
-
-Todo.
-
-Dante no intenta arreglarlo.
-
-No intenta darte soluciones.
-
-Simplemente se acerca.
-
-Y te abraza.
-
-Nada más.
-
-Un abrazo cálido.
-
-Tranquilo.
-
-Seguro.
-
-Durante unos segundos te aferras a él.
-
-Como si llevaras años esperando hacerlo.
-
-Como si estuvieras agotada de luchar sola.
-
-Poco a poco el llanto disminuye.
-
-Tu respiración se calma.
-
-Y cuando levantas la cabeza...
-
-Dante sigue ahí.
-
-Sin apartarse.
-
-Sin soltarte.
-
-Mirándote como si fueras algo valioso.
-
-Algo importante.
-
-Algo digno de ser querido.
-
-#speaker:{protagonistName}
-—Eres idiota.
+—Descarado...
 #speaker:hide
 Murmuras.
 
 #speaker:Dante
 #dante:jacket:smile
-—Lo sé.
+—Un poco.
 #speaker:hide
 No puedes evitar reírte un poco.
 

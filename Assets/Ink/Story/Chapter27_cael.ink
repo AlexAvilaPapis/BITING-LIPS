@@ -1561,7 +1561,7 @@ Cael te mira.
 #speaker:Cael
 #cael:black:neutral
 
-—Porque me importas.
+—Porque te quiero.
 
 #speaker:hide
 
@@ -1600,109 +1600,194 @@ Cael vuelve a mirarte.
 #speaker:Cael
 #cael:black:neutral
 
-—No para mí, me estoy que me estoy declarando.
+—No para mí. Me estoy declarando.
 
 #speaker:{protagonistName}
 
 —Cael...
 
-#speaker:hide
+#speaker
 
-#speaker:Cael
-#cael:black:neutral
+Él espera.
 
-—No tienes que decir nada.
+Lo miras durante unos segundos.
 
-#speaker:hide
+Quieres decirlo.
 
-#speaker:{protagonistName}
-
-—Déjame terminar.
-
-#speaker:hide
-
-Él se calla.
-
-Respiras profundamente.
+Pero no sabes cómo.
 
 #speaker:{protagonistName}
 
-—Tengo miedo.
+—Yo también te quiero.
 
-#speaker:hide
+#speaker
 
-Confiesas.
+Cael se queda quieto.
 
-Cael te observa.
+#speaker
+#cael:black
 
-#speaker:Cael
-#cael:black:neutral
+—Ah.
 
-—Lo sé.
+#speaker
 
-#speaker:hide
+Sonríes.
 
 #speaker:{protagonistName}
 
-—No.
+—¿Ah?
 
-#speaker:hide
+#speaker
+
+#speaker
+#cael:black
+
+—No sabía qué ibas a decir.
+
+#speaker
+
+—Ahora ya lo sabes.
+
+#speaker
+
+Cael sonríe.
+
+Y durante un momento, todo parece estar bien.
+
+Demasiado bien.
+
+La sonrisa se te va poco a poco.
+
+Bajas la mirada.
+
+#speaker
+#cael:black
+
+—¿Qué pasa?
+
+#speaker
+
+Niega tu cabeza.
+
+#speaker:{protagonistName}
+
+—Nada.
+
+#speaker
+
+Cael no responde.
+
+Solo sigue mirándote.
+
+#speaker:{protagonistName}
+
+—Es que...
+
+#speaker
+
+Te cuesta continuar.
+
+#speaker:{protagonistName}
+
+—Hay algo que no está bien.
+
+#speaker
+
+Cael deja de sonreír.
+
+#speaker
+#cael:black
+
+—¿Qué?
+
+#speaker
+
+Aprietas las manos sobre tus piernas.
+
+#speaker:{protagonistName}
+
+—No lo sé.
+
+#speaker
 
 Pausa.
 
 #speaker:{protagonistName}
 
-—No lo sabes.
+—Ese es el problema.
 
-#speaker:hide
+#speaker
+
+Cael espera.
+
+#speaker:{protagonistName}
+
+—A veces estoy contigo y...
+
+#speaker
+
+Te callas.
+
+No quieres terminar la frase.
+
+#speaker
+#cael:black
+
+—¿Y qué?
+
+#speaker
+
+Lo miras.
+
+Por un instante, tus ojos bajan hasta su cuello.
+
+Apartas la mirada enseguida.
+
+#speaker:{protagonistName}
+
+—No importa.
+
+#speaker
+
+Cael se acerca un poco.
+
+#speaker
+#cael:black
+
+—Sí importa.
+
+#speaker
 
 Tragas saliva.
 
 #speaker:{protagonistName}
 
-—Tengo miedo de mí misma.
+—Solo... quédate conmigo un rato.
 
-#speaker:hide
+#speaker
 
-Cael se queda completamente quieto.
+Cael te observa.
 
-No pregunta por qué.
+No parece entenderlo del todo.
 
-No te exige una explicación.
+Pero asiente.
 
-#speaker:Cael
-#cael:black:staring
+#speaker
+#cael:black
 
-—Me quedare contigo hasta que deje de darte miedo.
+—Vale.
 
-#speaker:hide
+#speaker
 
-Tus ojos empiezan a llenarse de lágrimas.
+Te acercas a él.
 
-#speaker:{protagonistName}
+Apoyas la cabeza en sus piernas.
 
-—¿Y si no deja de darme miedo?
+Cael empieza a acariciarte el pelo.
 
-#speaker:hide
+Cierras los ojos.
 
-Cael te mira durante unos segundos.
-
-#speaker:Cael
-#cael:black:neutral
-
-—Entonces nos quedamos un poco más.
-
-#speaker:hide
-
-Una lágrima cae por tu mejilla.
-
-Cael la limpia suavemente con el pulgar.
-
-Y ese gesto tan pequeño consigue derribar lo último que quedaba de tus defensas.
-
-Caes al suelo y apoyas tu cabeza en sus piernas.
-
-Él te acaricia la cabeza.
+Por un momento, consigues respirar.
 
 Y durante un instante os quedáis así.
 
