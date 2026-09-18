@@ -1449,11 +1449,11 @@ GameObject:
   - component: {fileID: 405130190}
   m_Layer: 5
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &405130190
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1463,8 +1463,8 @@ RectTransform:
   m_GameObject: {fileID: 405130189}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: -1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: -1.25, y: 1.25, z: 1.25}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 779133879}
   - {fileID: 1724124356}
@@ -1475,7 +1475,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 178, y: 184}
   m_SizeDelta: {x: 422.1124, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &409964370
@@ -2848,7 +2848,7 @@ GameObject:
   - component: {fileID: 731402222}
   m_Layer: 5
   m_Name: Char
-  m_TagString: Untagged
+  m_TagString: Char
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2871,7 +2871,7 @@ RectTransform:
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 400, y: 800}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &731402222
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4335,7 +4335,7 @@ GameObject:
   - component: {fileID: 1005941083}
   m_Layer: 5
   m_Name: Cael
-  m_TagString: Untagged
+  m_TagString: Cael
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4358,7 +4358,7 @@ RectTransform:
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 500, y: 900}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &1005941083
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4492,7 +4492,7 @@ GameObject:
   - component: {fileID: 1103140664}
   m_Layer: 5
   m_Name: Dante
-  m_TagString: Untagged
+  m_TagString: Dante
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4515,7 +4515,7 @@ RectTransform:
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 550, y: 900}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &1103140664
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5872,7 +5872,7 @@ GameObject:
   - component: {fileID: 1487487457}
   m_Layer: 5
   m_Name: Evan
-  m_TagString: Untagged
+  m_TagString: Evan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5895,7 +5895,7 @@ RectTransform:
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 490.2324, y: 900}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &1487487457
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6451,7 +6451,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 32, y: 576}
+  m_AnchoredPosition: {x: 32, y: 519}
   m_SizeDelta: {x: 1750, y: 1000}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1616137004

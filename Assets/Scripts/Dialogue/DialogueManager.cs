@@ -1,6 +1,7 @@
 using UnityEngine;
 using Ink.Runtime;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 
 public class DialogueManager : MonoBehaviour
 {
@@ -30,6 +31,11 @@ public class DialogueManager : MonoBehaviour
     private PauseManager pauseManager;
     private MusicManager musicManager;
 
+    private void Awake()
+    {
+        GetCharactersInitialScales();
+    }
+
     private void Start()
     {
         dialogueUI = FindFirstObjectByType<DialogueUI>();
@@ -48,6 +54,8 @@ public class DialogueManager : MonoBehaviour
         pauseManager = FindFirstObjectByType<PauseManager>();
         musicManager = FindFirstObjectByType<MusicManager>();
 
+
+
         dialogueInput.OnAdvance += AdvanceDialogue;
         choiceManager.OnChoiceSelected += ChooseOption;
         nameInputManager.OnNameConfirmed += SetPlayerName;
@@ -63,6 +71,73 @@ public class DialogueManager : MonoBehaviour
             StartStory(currentChapter);
         }
     }
+
+    // CAMBIAR FINDOBJECTWITHTAG por CHARACTERS del CHARACTER MANAGER
+    float CharacterScaleMultiplier = 1.1f;
+    Vector3 ScaleChar;
+    Vector3 ScaleCael;
+    Vector3 ScaleDante;
+    Vector3 ScaleEvan;
+    Vector3 ScalePlayer;
+    void GetCharactersInitialScales()
+    {
+        ScaleChar = GameObject.FindGameObjectWithTag("Char").transform.localScale;
+        ScaleCael = GameObject.FindGameObjectWithTag("Cael").transform.localScale;
+        ScaleDante = GameObject.FindGameObjectWithTag("Dante").transform.localScale;
+        ScaleEvan = GameObject.FindGameObjectWithTag("Evan").transform.localScale;
+        ScalePlayer = GameObject.FindGameObjectWithTag("Player").transform.localScale;
+    }
+    void ResetCharactersScale()
+    {
+        if (GameObject.FindGameObjectWithTag("Char") != null)
+            GameObject.FindGameObjectWithTag("Char").transform.localScale = ScaleChar;
+
+        if (GameObject.FindGameObjectWithTag("Cael") != null)
+            GameObject.FindGameObjectWithTag("Cael").transform.localScale = ScaleCael;
+
+        if (GameObject.FindGameObjectWithTag("Dante") != null)
+            GameObject.FindGameObjectWithTag("Dante").transform.localScale = ScaleDante;
+
+        if (GameObject.FindGameObjectWithTag("Evan") != null)
+            GameObject.FindGameObjectWithTag("Evan").transform.localScale = ScaleEvan;
+
+        if (GameObject.FindGameObjectWithTag("Player") != null)
+            GameObject.FindGameObjectWithTag("Player").transform.localScale = ScalePlayer;
+    }
+    void HighlightCharacter(string i_Character)
+    {
+        if (i_Character == "Char")
+        {
+            if (GameObject.FindGameObjectWithTag("Char") != null)
+                GameObject.FindGameObjectWithTag("Char").transform.localScale = ScaleChar * CharacterScaleMultiplier;
+            return;
+        }
+        if (i_Character == "Cael")
+        {
+            if (GameObject.FindGameObjectWithTag("Cael") != null)
+                GameObject.FindGameObjectWithTag("Cael").transform.localScale = ScaleCael * CharacterScaleMultiplier;
+            return;
+        }
+        if (i_Character == "Dante")
+        {
+            if (GameObject.FindGameObjectWithTag("Dante") != null)
+                GameObject.FindGameObjectWithTag("Dante").transform.localScale = ScaleDante * CharacterScaleMultiplier;
+            return;
+        }
+        if (i_Character == "Evan")
+        {
+            if (GameObject.FindGameObjectWithTag("Evan") != null)
+                GameObject.FindGameObjectWithTag("Evan").transform.localScale = ScaleEvan * CharacterScaleMultiplier;
+            return;
+        }
+        if (i_Character == "Player")
+        {
+            if (GameObject.FindGameObjectWithTag("Player") != null)
+                GameObject.FindGameObjectWithTag("Player").transform.localScale = ScalePlayer * CharacterScaleMultiplier;
+            return;
+        }
+    }
+
 
     private void AdvanceDialogue()
     {
@@ -137,6 +212,8 @@ public class DialogueManager : MonoBehaviour
 
     private void HandleTags(List<string> tags)
     {
+        ResetCharactersScale(); // AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
         foreach (string tag in tags)
         {
             // Debug.Log("TAG:" + tag);
@@ -158,6 +235,8 @@ public class DialogueManager : MonoBehaviour
                         speaker = story.variablesState["protagonistName"].ToString();
 
                         dialogueUI.SetPlayerSpeakerSprite();
+
+                        HighlightCharacter("Player"); // AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
                     }
                     else
                     {
@@ -217,6 +296,8 @@ public class DialogueManager : MonoBehaviour
                         expression
                     );
                 }
+
+                HighlightCharacter("Char"); // AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
             }
             if (tag.StartsWith("cael:"))
             {
@@ -235,6 +316,8 @@ public class DialogueManager : MonoBehaviour
                         expression
                     );
                 }
+
+                HighlightCharacter("Cael"); // AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
             }
             if (tag.StartsWith("dante:"))
             {
@@ -253,6 +336,7 @@ public class DialogueManager : MonoBehaviour
                         expression
                     );
                 }
+                HighlightCharacter("Dante"); // AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
             }
             if (tag.StartsWith("evan:"))
             {
@@ -271,6 +355,7 @@ public class DialogueManager : MonoBehaviour
                         expression
                     );
                 }
+                HighlightCharacter("Evan"); // AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
             }
             if (tag.StartsWith("hide:"))
             {
@@ -386,7 +471,7 @@ public class DialogueManager : MonoBehaviour
         Debug.Log(
             "Cael: " + story.variablesState["caelAffinity"] + "\n" +
             "Dante: " + story.variablesState["danteAffinity"] + "\n" +
-            "Evan: " + story.variablesState["evanAffinity"] + "\n" 
+            "Evan: " + story.variablesState["evanAffinity"] + "\n"
         );
     }
 
